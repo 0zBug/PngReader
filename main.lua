@@ -968,3 +968,5 @@ function PNG.new(buffer)
 	
 	return setmetatable(file, PNG)
 end
+
+return PNG
